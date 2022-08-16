@@ -1,0 +1,31 @@
+body{ 
+    background-color: aliceblue;
+}
+
+.bird { 
+    position: relative ;
+    top: 200px;
+    left: 300px;
+}
+.bird1 { 
+    position: relative;
+    left: 900px;
+    top: -100px;
+}
+.text { 
+    position: relative;
+    left: 500px;
+    top: -500px;
+    z-index: 1;
+    height: 300px;
+    width: 500px;
+    background-color: white;
+    text-align: center;
+
+}
+button { 
+    color: white;
+    background-color: orangered;
+    border: 2px solid orangered ;
+    padding: 7px 20px 7px 20px; 
+}
